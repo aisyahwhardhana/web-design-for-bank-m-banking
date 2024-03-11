@@ -8,3 +8,6 @@ In today's digital age, mobile banking has become an integral part of our daily 
 # Features (still in development)
 - Responsive Design: The web design will adapt to different screen sizes, ensuring a consistent user experience across devices.
 - User-Friendly Interface: The web design incorporates suitable font sizes and colors.
+
+# Getting Started 
+Open the index.html file in your preferred web browser to view the web design.
