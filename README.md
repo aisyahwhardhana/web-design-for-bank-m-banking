@@ -11,3 +11,8 @@ In today's digital age, mobile banking has become an integral part of our daily 
 
 # Getting Started 
 Open the index.html file in your preferred web browser to view the web design.
+
+
+
+Made by:
+Nida Ariqah & Aisyah
